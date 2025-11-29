@@ -66,7 +66,7 @@ Clone the repository
 
 `git clone https://github.com/Z0G/static-website-on-aws`
 
-`cd static-website-project`
+`cd static-website-on-aws`
 
 Since this is a pure HTML/CSS/JS project, no build tools or dev servers are required.
 
